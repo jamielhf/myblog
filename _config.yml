@@ -77,13 +77,5 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ftpsync
-  host: 39.108.65.154
-  user: root
-  pass: 663042
-  remote: /root/data/blog/
-  port: 21
-  ignore: node_modules
-  connections: 1
-  verbose: true
+
 
